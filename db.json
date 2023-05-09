@@ -1,9 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "employees": [
+    {
+      "firstName": "Naveet1",
+      "lastName": "Burman",
+      "email": "nvneet513@gmail.com",
+      "department": "Tech",
+      "salary": 50000,
+      "id": 1
+    },
+    {
+      "firstName": "any11",
+      "lastName": "BURMAN",
+      "email": "eve.holt@reqres.in",
+      "department": "tech",
+      "salary": "60525",
+      "id": 2
+    }
+  ]
 }
